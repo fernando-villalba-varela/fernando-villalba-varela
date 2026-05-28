@@ -77,17 +77,6 @@ I enjoy migrating legacy XML interfaces to modern Compose, designing clean compo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando-villalba-varela&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-villalba-varela&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
